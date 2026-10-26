@@ -1,3 +1,5 @@
+[English](#-hello-im-francisco-rubial) | [Español](#-hola-soy-francisco-rubial)
+
 # ¡Hola! Soy Francisco Rubial 👋
 
 Full-stack developer en [@fullstacklabs](https://github.com/fullstacklabs) desde Venezuela 🇻🇪.
@@ -23,3 +25,14 @@ Full-stack developer en [@fullstacklabs](https://github.com/fullstacklabs) desde
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=franjorub&show_icons=true&hide_title=true)
 
 ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=franjorub&layout=compact&hide_title=true)
+
+---
+
+# Hello! I'm Francisco Rubial 👋
+
+Full-stack developer at [@fullstacklabs](https://github.com/fullstacklabs), based in Venezuela 🇻🇪.
+
+- 🔭 Focused on the **JavaScript / TypeScript** ecosystem: React, Next.js and Node.js
+- 🌐 Portfolio: [franjorub.github.io](https://franjorub.github.io)
+- 🌱 Always exploring new tools (lately AI and Model Context Protocol)
+- 📫 Contact: [franjorub.github.io](https://franjorub.github.io)
